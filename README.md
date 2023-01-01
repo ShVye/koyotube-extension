@@ -5,7 +5,7 @@ youtubeの動画をkoyotubeで開く拡張機能です
 1. 下記URLからzipファイルをダウンロード  
 https://github.com/ShVye/koyotube-extension/releases/download/v0.1/koyotube-extension.zip  
 2. 適当な場所に展開する  
-3. Chromeのアドレスから下記を開く  
+3. Chromeのアドレスバーから下記を開く  
 chrome://extensions/  
 4. 右上にある「デベロッパーモード」を有効化する  
 5. 「パッケージ化されていない拡張機能を読み込む」を押下する  
