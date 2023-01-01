@@ -1,0 +1,12 @@
+{
+    "name": "こよつべで開く",
+    "description": "Youtubeの動画をこよつべで開きなおします",
+    "version": "0.1",
+    "manifest_version": 3,
+    "action": {
+    },
+    "permissions": ["activeTab", "scripting"],
+    "background": {
+       "service_worker": "background.js"
+    }
+}
